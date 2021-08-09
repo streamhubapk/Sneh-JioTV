@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/hmZyP5j/JIO-LOGO-removebg-preview.png" width="200" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/hmZyP5j/JIO-LOGO-removebg-preview.png" width="180" height="100"></p>
 
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
 
