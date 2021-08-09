@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.vhv.rs/dpng/d/256-2566322_jio-tv-hd-png-download.png" width="100" height="100"></p>
+
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
