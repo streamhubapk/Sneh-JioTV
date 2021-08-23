@@ -19,10 +19,10 @@
 
 - For This You Need JioID Number and Password
 ```py
- https://jtok.herokuapp.com/?u=NUMBER&p=PASSWORD
+ https://jiologin.herokuapp.com/?user=NUMBER&pass=PASSWORD
 ```
-- `u` = Username / Mobile No Without `+91`
-- `p` = Password
+- `user` = Username / Mobile No With `91`
+- `pass` = Password
 
 <br>
 
