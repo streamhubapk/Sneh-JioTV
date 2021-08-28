@@ -15,21 +15,14 @@
 - Web Play Supports
 - TiviMate or PC Users can Also Use This [PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV/blob/main/playlist.m3u)
 
-<h3>😛 Genrate ssoToken Here :</h3>
+<h3>😛 Generate ssoToken Here :</h3>
 
 - For This You Need JioID Number and Password
 ```py
- https://jiologin.herokuapp.com/?user=NUMBER&pass=PASSWORD
+ http://jiologin.epizy.com/?user=NUMBER&pass=PASSWORD
 ```
 - `user` = Username / Mobile No With `91`
 - `pass` = Password
-
-<br>
-
-- If You Don't Know JioID and Pass then Simply Open Following URL in Jio Network Connected Device
-```py
-https://jtok.herokuapp.com/j/
-```
 
 
 <br>
