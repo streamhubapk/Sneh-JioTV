@@ -46,7 +46,7 @@
 • Click On Channel and Play <br>
 
 
-## 🍁 Given Below Are List of Some Screenshots Of Sneh TV v10.1
+## 🍁 Given Below Are Some Screenshots Of Sneh JioTV 
 <br>
 
 ## 🖥 Desktop Version
