@@ -5,7 +5,7 @@
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021 TechieSneh -->
 
-<h4 align='center'>📺 The PHP Script For Streaming JioTV Links and Play it , This Workes Only on Indian Server and LocalHost [ VPS ] due to Geo-restrictions<br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Put Your Own Token In This Script</h4>
+<h4 align='center'>📺 The PHP Script For Streaming JioTV Links and Play 📺 <br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Visit Our Site & Enjoy</h4>
 <br>
 
 <h2>😇 Features :</h2>
@@ -16,11 +16,16 @@
 
 
 <br>
-<h2> Visit Here : </h2>
-<p align="center"> Use Our Site : http://103.217.221.64/snehjiotv </p>
-  
+<h2> 📡 Visit Here : </h2>
+[Use Our Site] (http://103.217.221.64/snehjiotv)
 
-<h3>😛 Generate ssoToken Here :</h3>
+- `Watch All Channels of JioTV` 
+- `Quality Change Option Added Soon`
+
+
+  
+<br>
+<h2>😛 Generate ssoToken Here : </h2>
 
 - For This You Need JioID Number and Password
 
