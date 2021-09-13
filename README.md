@@ -67,10 +67,7 @@
 <h2> Where To Play : </h2>
 <h5 align="center"> Play From <a href="http://103.217.221.64/snehjiotv">Sneh JioTV</a> <br> or Otherwise Use Our Site http://103.217.221.64/snehjiotv
   
----
-<h5 align='center'>© 2021 Techie Sneh</h5>
-
-
+<br>
 <h2>🚸 Warnings :</h2>
 
 - This is Just For Educational Purpose
