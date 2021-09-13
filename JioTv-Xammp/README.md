@@ -5,7 +5,7 @@
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021 TechieSneh -->
 
-<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Workes Only on Indian Server and LocalHost [ VPS ] due to Geo-restrictions<br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Put Your Own Token In This Script</h4>
+<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Workes Only on Indian Server and LocalHost [ VPS ] due to Geo-restrictions<br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Creadits<br>Don't Edit This Script 😈<br><br>Put Your Own Token In This Script</h4>
 <br>
 
 <h2>😇 Features :</h2>
@@ -13,6 +13,7 @@
 - HQ Streaming Free of Cost <br>
 - Will Works In 250, 400, 600, 800 in this Gives Qualities
 - Web Play Supports
+- TiviMate or PC Users can Also Use This [PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV/blob/main/playlist.m3u)
 
 <h3>😛 Generate ssoToken Here :</h3>
 
@@ -25,7 +26,7 @@
 
 
 <br>
-<h2>🍁 How To Run : </h2>
+<h2>🍁 How To Use : </h2>
 
 #### ♢ Method 1 :
 
@@ -34,31 +35,19 @@
 • Open localhost You Will See all Channels List <br>
 • Click On Channel and Play <br>
 
+#### ♢ Method 2 :
 
-## 🍁 Given Below Are List of Some Screenshots Of Sneh TV v10.1
-<br>
+• In Player Put Links Format Like Below
 
-## 🖥 Desktop Version
-<br>
-
-<div>
-<img src="images/desktop/desk1.png" alt="Desktop 1" width="320" height="180">
-<img src="images/desktop/desk2.png" alt="Desktop 2" width="320" height="180"><br>
-<img src="images/desktop/desk3.png" alt="Desktop 3" width="320" height="180">
-<img src="images/desktop/desk4.png" alt="Desktop 4" width="320" height="180"><br>
-<img src="images/desktop/desk5.png" alt="Desktop 5" width="320" height="180">
-
-</div>
-
-
-
-<br>
-<h2> Where To Play : </h2>
-<h5 align="center"> Play From <a href="http://103.217.221.64/snehjiotv">Sneh JioTV</a> <br> or Otherwise Use Our Site http://103.217.221.64/snehjiotv
+  ```py
+  [+] - http://localhost/m3u8.php?c=Channel_Name&q=Quality&e=play.m3u8
   
----
-<h5 align='center'>© 2021 Techie Sneh</h5>
+  [+] - http://localhost/m3u8.php?c=And_Pictures_HD&q=800&e=play.m3u8
+  
+  ```
 
+   ♢ <b>Depnding on Your Server Change Links<br>
+   ♢ This Script is free for USE and Modify</b><br><br>
 
 <h2>🚸 Warnings :</h2>
 
@@ -66,6 +55,7 @@
 - DO NOT Sell this Script, This is 💯% Free
 
 <h3>🤗 Meet Me : </h3>
+
 
 • For any Support About Script contact [@TechieSneh]
 • Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
