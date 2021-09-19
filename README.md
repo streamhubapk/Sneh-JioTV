@@ -17,8 +17,8 @@
 
 <br>
 <h2> 📡 Watch Here : </h2>
-[Sneh JioTv v1.1.2] (http://snehjiotv.rf.gd/releases/Sneh_JioTv_v1.1.2.apk)<br>
-[Use Our Site] (http://snehjiotv.rf.gd)<br><br>
+[Sneh TV v10.1.3] (https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk)<br>
+[Use Our Site] (http://snehtv007.ueuo.com)<br><br>
 
 - `Watch All Channels of JioTV` 
 - `Quality Change Option Added Soon`
@@ -30,7 +30,7 @@
 
 - For This You Need JioID Number and Password
 
-[Jio Login Page] (http://jiologin.epizy.com)
+[Jio Login Page] (Coming soon)
  
 - `user` = Username / Mobile No.
 - `pass` = Password
@@ -66,7 +66,7 @@
 
 <br>
 <h2> Where To Play : </h2>
-<h5 align="center"> Play From App <a href="http://snehjiotv.rf.gd/releases/Sneh_JioTv_v1.1.2.apk">Sneh JioTV v1.1.2</a> <br> or Otherwise Use Our Site http://snehjiotv.rf.gd
+<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk">Sneh TV v10.1.3</a> <br> or Otherwise Use Our Site http://snehtv007.ueuo.com
   
 <br>
 <h2>🚸 Warnings :</h2>
