@@ -20,7 +20,7 @@
 [Sneh TV v10.1.3] (https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk)<br>
 [Use Our Site] (http://snehtv007.ueuo.com)<br><br><br>
 
-[Use Our Site] (http://snehjiotv.rf.gd)<br><br>
+[Sneh JioTv Site] (http://snehjiotv.rf.gd)<br><br>
 
 - `Watch All Channels of JioTV` 
 - `Quality Change Option Added Soon`
@@ -32,7 +32,7 @@
 
 - For This You Need JioID Number and Password
 
-[Jio Login Page] (Coming soon)
+[Jio Login Page] (http://jiologin.epizy.com)
  
 - `user` = Username / Mobile No.
 - `pass` = Password
