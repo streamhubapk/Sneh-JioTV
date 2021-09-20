@@ -18,7 +18,10 @@
 <br>
 <h2> 📡 Watch Here : </h2>
 [Sneh TV v10.1.3] (https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk)<br>
-[Use Our Site] (http://snehtv007.ueuo.com)<br><br>
+[Use Our Site] (http://snehtv007.ueuo.com)<br><br><br>
+
+[Sneh JioTv v1.1.2] (http://snehjiotv.rf.gd/releases/Sneh_JioTv_v1.1.2.apk)<br>
+[Use Our Site] (http://snehjiotv.rf.gd)<br><br>
 
 - `Watch All Channels of JioTV` 
 - `Quality Change Option Added Soon`
