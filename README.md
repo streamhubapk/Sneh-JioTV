@@ -8,6 +8,9 @@
 <h4 align='center'>📺 The PHP Script For Streaming JioTV Links and Play 📺 <br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Visit Our Site & Enjoy</h4>
 <br>
 
+<!-- <p align="center"><b> ✅ SERVER IS UP NOW ✅ </b></p><br> -->
+<p align="center"><b> ❗ SERVER IS UNDER MAINTENANCE ❗ </b></p><br>
+
 <h2>😇 Features :</h2>
 
 - HQ Streaming Free of Cost <br>
