@@ -12,18 +12,22 @@
 
 - HQ Streaming Free of Cost <br>
 - Will Works In 250, 400, 600, 800 in this Gives Qualities
+- Jio Quality Change Option Added
 - Web Play Supports
 
 
 <br>
-<h2> 📡 Watch Here : </h2>
-[Sneh TV v10.1.3] (https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk)<br>
-[Use Our Site] (http://snehtv007.ueuo.com)<br><br><br>
-
+<h2> 📡 Watch JioTv Here : </h2>
+[Sneh JioTV v1.1.2] (https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_1.1.2.apk)<br>
 [Sneh JioTv Site] (http://snehjiotv.rf.gd)<br><br>
 
 - `Watch All Channels of JioTV` 
-- `Quality Change Option Added Soon`
+- `Quality Change Option Added`
+
+<br>
+<h2> 📡 Watch SnehTv Here : </h2>
+[Sneh TV v10.1.3] (https://github.com/techiesneh/Sneh-TV/raw/main/Sneh_TV_10.1.3.apk)<br>
+[Use Our Site] (http://snehtv007.ueuo.com)<br><br>
 
 
   
