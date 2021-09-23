@@ -8,8 +8,8 @@
 <h4 align='center'>📺 The PHP Script For Streaming JioTV Links and Play 📺 <br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Visit Our Site & Enjoy</h4>
 <br>
 
-<!-- <p align="center"><b> ✅ SERVER IS UP NOW ✅ </b></p><br> -->
-<p align="center"><b> ❗ SERVER IS UNDER MAINTENANCE ❗ </b></p><br>
+ <p align="center"><b> ✅ SERVER IS UP NOW ✅ </b></p><br> 
+<!-- <p align="center"><b> ❗ SERVER IS UNDER MAINTENANCE ❗ </b></p><br> -->
 
 <h2>😇 Features :</h2>
 
@@ -22,7 +22,7 @@
 <br>
 <h2> 📡 Watch JioTv Here : </h2>
 [Sneh JioTV v1.1.3] (https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_1.1.3.apk)<br>
-[Sneh JioTv Site] (http://snehtv007.ueuo.com/snehjiotv)<br><br>
+[Sneh JioTv Site] (http://snehjiotv007.ueuo.com)<br><br>
 
 - `Watch All Channels of JioTV` 
 - `Quality Change Option Added`
@@ -75,7 +75,7 @@
 
 <br>
 <h2> Where To Play : </h2>
-<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_10.1.3.apk">Sneh JioTV v1.1.3</a> <br> or Otherwise Use Our Site http://snehtv007.ueuo.com/snehjiotv
+<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_10.1.3.apk">Sneh JioTV v1.1.3</a> <br> or Otherwise Use Our Site http://snehjiotv007.ueuo.com/
   
 <br>
 <h2>🚸 Warnings :</h2>
