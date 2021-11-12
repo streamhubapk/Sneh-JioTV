@@ -75,7 +75,7 @@
 
 <br>
 <h2> Where To Play : </h2>
-<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_10.1.3.apk">Sneh JioTV v1.1.3</a> <br> or Otherwise Use Our Site http://snehjiotv007.ueuo.com/
+<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_10.1.3.apk">Sneh JioTV v1.1.3</a> <br> or Otherwise Use Our Site https://bit.ly/snehjiotv
   
 <br>
 <h2>🚸 Warnings :</h2>
