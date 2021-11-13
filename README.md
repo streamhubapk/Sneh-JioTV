@@ -21,8 +21,8 @@
 
 <br>
 <h2> 📡 Watch JioTv Here : </h2>
-[Sneh JioTV v1.1.3] (https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_1.1.3.apk)<br>
-[Sneh JioTv Site] (https://bit.ly/snehjiotv)<br><br>
+[Sneh JioTV v2.2.0] (https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_2.2.0.apk)<br>
+[Sneh JioTv Site] (https://bit.ly/snehjiotvnew)<br><br>
 
 - `Watch All Channels of JioTV` 
 - `Quality Change Option Added`
@@ -75,7 +75,7 @@
 
 <br>
 <h2> Where To Play : </h2>
-<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_10.1.3.apk">Sneh JioTV v1.1.3</a> <br> or Otherwise Use Our Site https://bit.ly/snehjiotv
+<h5 align="center"> Play From App <a href="https://github.com/techiesneh/Sneh-JioTV/raw/main/Sneh_JioTv_2.2.0.apk">Sneh JioTV v2.2.0</a> <br> or Otherwise Use Our Site https://bit.ly/snehjiotvnew
   
 <br>
 <h2>🚸 Warnings :</h2>
